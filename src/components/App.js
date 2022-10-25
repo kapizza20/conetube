@@ -10,7 +10,7 @@ class App extends React.Component{
     };
 
     componentDidMount(){
-        this.onTermSubmit('fashion bikini')
+        this.onTermSubmit('MISE OFFICIAL - MIAMI SWIM WEEK THE SHOWS 2022')
     }
 
     onTermSubmit= async (term)=>{
